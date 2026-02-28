@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2Jb65I3UkEwvLZAAbRyLK65C4lYb1mtZ5weKA2bSg1A=",
+  "Source": "GuestService.Api",
+  "BasePath": "_content/GuestService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

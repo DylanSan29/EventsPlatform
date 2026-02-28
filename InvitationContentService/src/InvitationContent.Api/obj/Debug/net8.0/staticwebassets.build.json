@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tPYdP3Wgaanwvjy0wsw3ySmIQsNmjIXqeVZigqyoVAE=",
+  "Source": "InvitationContentService.Api",
+  "BasePath": "_content/InvitationContentService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

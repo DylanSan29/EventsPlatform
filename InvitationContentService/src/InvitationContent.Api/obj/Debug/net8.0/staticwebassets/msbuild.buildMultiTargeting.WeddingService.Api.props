@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InvitationContentService.Api.props" />
+</Project>
