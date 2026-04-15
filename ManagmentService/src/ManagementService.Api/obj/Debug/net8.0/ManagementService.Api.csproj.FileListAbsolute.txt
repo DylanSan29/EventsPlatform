@@ -135,3 +135,5 @@ C:\Users\EQUIPO\Desktop\PROJECTS\Events\EventsPlatorm\ManagmentService\src\Manag
 C:\Users\EQUIPO\Desktop\PROJECTS\Events\EventsPlatorm\ManagmentService\src\ManagementService.Api\obj\Debug\net8.0\ManagmentService.Api.pdb
 C:\Users\EQUIPO\Desktop\PROJECTS\Events\EventsPlatorm\ManagmentService\src\ManagementService.Api\obj\Debug\net8.0\ManagementService.Api.genruntimeconfig.cache
 C:\Users\EQUIPO\Desktop\PROJECTS\Events\EventsPlatorm\ManagmentService\src\ManagementService.Api\obj\Debug\net8.0\ref\ManagmentService.Api.dll
+C:\Users\EQUIPO\Desktop\PROJECTS\Events\EventsPlatorm\ManagmentService\src\ManagementService.Api\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\EQUIPO\Desktop\PROJECTS\Events\EventsPlatorm\ManagmentService\src\ManagementService.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
